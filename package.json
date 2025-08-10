@@ -1,1 +1,12 @@
+{
+  "name": "mcp-risk-engine",
+  "version": "1.0.0",
+  "description": "MCP Risk Engine - Predicts BTC collateral risk using stablecoin inflows/outflows",
+  "main": "api/check-risk.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
 
